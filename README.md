@@ -1,0 +1,1 @@
+This is a project in which answers are evaluated. Firstly a picture of answer is needed, which is then preprocessed by open cv. and then the text is extracted by ocr. and then the answers are compared and marks are evaluated.
